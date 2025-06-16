@@ -1,21 +1,13 @@
----
-Player:
- Simon
-Class:
- Cleric
-Race:
-  Triton
-Level:
-  "3"
-HP:
-  "31"
-AC:
-  "16"
-modifier:
-  "+2"
-pasperc:
-  "13"
-Role: Player
-Status: Active
-Noteicon: Player
----
+
+<script>
+  const password = "SimonLimon2";
+  const entered = prompt("Enter password to view this character sheet:");
+  if (entered !== password) {
+    document.body.innerHTML = "<h2>Access denied.</h2>";
+    throw new Error("Wrong password");
+  }
+</script>
+
+# Alice's Character Sheet
+
+... your character info here ...
