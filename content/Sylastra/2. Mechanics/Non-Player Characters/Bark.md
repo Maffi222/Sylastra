@@ -2,7 +2,7 @@
 noteicon: NPC
 ---
 
-# [[Bark]]
+
 
 ## History
 
@@ -14,8 +14,8 @@ Drack med [[Farn]] i Solens spegel i [[Miraj'tar]]
 
 ## Relationships
 
-[[Farn]] - Adventure Partner
-[[Mastus]] - Känner
+- [[Farn]] - Adventure Partner
+- [[Mastus]] - Känner
 
 ## Groups
 
